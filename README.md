@@ -1,13 +1,12 @@
-# Sample Snack app
+# Fastfood app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Abra o arquivo `App.js` para vizualizar o código. Você pode ver diretamente em seu telefone ou tablet digitalizando o **QR code** disponivel no arquivo expo_go.png. Ou usando os emuladores iOS ou Android. Acesse: https://snack.expo.dev/@kaymoura/fastfood-mobile
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+  ## 🚀 Tecnologias
+ 
+ - Expo go;
+ - Mysql;
+ - React-native;
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-
-Acesse: https://snack.expo.dev/@kaymoura/fastfood-mobile
+ <br></br>
