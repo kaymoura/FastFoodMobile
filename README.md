@@ -8,5 +8,6 @@ Abra o arquivo `App.js` para vizualizar o código. Você pode ver diretamente em
  - Expo go;
  - Mysql;
  - React-native;
+ - Javascript;
 
  <br></br>
